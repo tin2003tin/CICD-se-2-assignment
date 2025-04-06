@@ -9,7 +9,7 @@ const monthOfTheYear = (date = new Date()) => {
     return month[date.getMonth()];
 }
 
-// eiei
+// eieidawdwa
 try {
     document.getElementById('day').innerText = dayOfTheWeek();
     document.getElementById('month').innerText = monthOfTheYear();
